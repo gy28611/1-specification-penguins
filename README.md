@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-[Luca Andreani](https://github.com/Landreani04)
+[Luca Andreani](https://github.com/Landreani04) [James Huang](https://github.com/JamesHuang2004)
 
 ## Stakeholders
 
