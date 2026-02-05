@@ -4,11 +4,22 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+[Luca Andreani](https://github.com/Landreani04)
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Pierson Scheinberg (Tutor):
+Goals/Needs:
+    1. Set his own rate.
+    2. Have a consultation session to see if student is the right match.
+    3. Diagnostic test to gauge student's level.
+    4. Assurance of payment on time (streamline the process).
+
+Problems:
+    1. No knowledge of student's current level of understanding causing time devoted to that.
+    2. Poor communication when tutoring with a mentor group involving schedule changes/lack of notice.
+    3. Services that hire tutors give a low set rate and don't give tutors much of the money that the services charge clients.
+    4. Services assigned people to tutors which sometimes caused mismatches.
 
 ## Product Vision Statement
 
