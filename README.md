@@ -21,6 +21,16 @@ Problems: <br />
     3. Services that hire tutors give a low set rate and don't give tutors much of the money that the services charge clients. <br />
     4. Services assigned people to tutors which sometimes caused mismatches. <br />
 
+Rosie Wang(Tutor):
+Goals:
+    1. Finding correct materials for students based on different needs. 
+    2. Flexibly designing teaching plans based on each student's level.
+
+Problems:
+    1. Issues when communicating with students about their needs, some students aren't clear about what specific areas they need most help with.
+    2. Sometimes have to go pass the scheduled session time to finish explaining problems but don't get paid for the extra time.
+
+
 Rachel Kim (Student): 
 Goals/Needs:
      1. Find qualified tutors quickly for specific subjects and levels. 
