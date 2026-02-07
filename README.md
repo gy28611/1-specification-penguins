@@ -92,6 +92,7 @@ Student: <br />
 
 ["As a tutor, I want control over my wage so that I'm not undervalued"](Tutor-wages.pdf) <br />
 ["As a student, I want to see tutor reviews so that I know they're helpful"](Student_see-reviews.pdf) <br />
+["As a student, I want to quickly find a tutor who matches my subject and level"](Student_find-nice-tutors.pdf) <br />
 
 ## Clickable Prototype
 
