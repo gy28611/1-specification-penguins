@@ -90,7 +90,7 @@ Student: <br />
 
 ## Activity Diagrams
 
-["As a tutor, I want control over my wage so that I'm not undervalued"](../../Downloads/Tutor-wages.pdf) <br />
+["As a tutor, I want control over my wage so that I'm not undervalued"](Tutor-wages.pdf) <br />
 
 ## Clickable Prototype
 
