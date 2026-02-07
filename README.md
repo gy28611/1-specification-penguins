@@ -86,6 +86,7 @@ Student: <br />
 - As a student, I want to quickly find a tutor who matches my subject and level so that I don’t waste time with someone who isn’t a good fit.
 - As a student, I want sessions that move at my pace so that I can actually understand the material instead of falling behind or getting bored.
 - As a student, I want to track my progress over time so that I know I’m improving and not just doing random sessions.
+- As a student, I want to avoid all the morning classes that I can't even focus well but I can still have material to learn the course content super well.
 
 ## Activity Diagrams
 
