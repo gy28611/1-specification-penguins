@@ -74,7 +74,7 @@ Tutor: <br />
 - As a tutor, I want to receive automatic notifications when students change or cancel sessions so that I am not surprised by schedule changes.
 - As a tutor, I want to teach at my own place so I can safe time on traveling.
 - As a tutor, I want to have a platform that I can spread my teaching all over the world without geological challenges.
-- As a tutor, I want more income then teaching at school/university and I believe the best way is to have more students(users).
+- As a tutor, I want a smart and con
 
 Student: <br />
 - As a student, I want to see tutor reviews so that I know they're helpful
