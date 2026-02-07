@@ -72,6 +72,9 @@ Tutor: <br />
 - As a tutor, I want to advertise my profile so that I get more opportunities
 - As a tutor, I want to run a short consultation session before accepting a student so that I can decide whether the student is a good fit for my teaching style.
 - As a tutor, I want to receive automatic notifications when students change or cancel sessions so that I am not surprised by schedule changes.
+- As a tutor, I want to teach at my own place so I can safe time on traveling.
+- As a tutor, I want to have a platform that I can spread my teaching all over the world without geological challenges.
+- As a tutor, I want more income then teaching at school/university and I believe the best way is to have more students(users).
 
 Student: <br />
 - As a student, I want to see tutor reviews so that I know they're helpful
@@ -80,6 +83,9 @@ Student: <br />
 - As a student, I want to book a short trial or consultation session with a tutor so that I can check if the tutor is right for me before committing.
 - As a student, I want to track my learning progress and completed topics so that I can see how much I have improved over time.
 - As a student, I want tutors to help me connect what I learn in class to real-world projects or portfolio work so that I can apply my skills outside of school.
+- As a student, I want to quickly find a tutor who matches my subject and level so that I don’t waste time with someone who isn’t a good fit.
+- As a student, I want sessions that move at my pace so that I can actually understand the material instead of falling behind or getting bored.
+- As a student, I want to track my progress over time so that I know I’m improving and not just doing random sessions.
 
 ## Activity Diagrams
 
