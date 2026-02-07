@@ -91,6 +91,7 @@ Student: <br />
 ## Activity Diagrams
 
 ["As a tutor, I want control over my wage so that I'm not undervalued"](Tutor-wages.pdf) <br />
+["As a student, I want to see tutor reviews so that I know they're helpful"](Student_see-reviews.pdf) <br />
 
 ## Clickable Prototype
 
