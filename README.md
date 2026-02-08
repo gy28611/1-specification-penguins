@@ -25,10 +25,14 @@ Rosie Wang(Tutor):<br />
 Goals:<br /> 
     1. Finding correct materials for students based on different needs. <br /> 
     2. Flexibly designing teaching plans based on each student's level.<br /> 
+    3. Attract students who match her strengths(explaining step-by-step).<br /> 
+    4. Setting up cancellation fees and deposits to avoid last-minute cancellations. <br /> 
 
 Problems:<br /> 
     1. Issues when communicating with students about their needs, some students aren't clear about what specific areas they need most help with.<br /> 
     2. Sometimes have to go pass the scheduled session time to finish explaining problems but don't get paid for the extra time.<br /> 
+    3. Messy schedule because of last minutes changes/cancellation.<br /> 
+    4. Hard to be discovered/stand out. <br /> 
 
 
 Rachel Kim (Student): 
@@ -53,13 +57,15 @@ Problems:
 Vicky Zhou(Student):
 Goals:
     1. Finding tutors who took the class before and got good grades, preferably with lots of experience.<br /> 
-    2. Need tutors who not only succeeded in the course but also can explain concepts in a way students can understand.<br /> 
-    3. Finding tutors who can design exercise problems based on each students' needs, instead of giving the same material for students of all levels.<br /> 
+    2. Need tutors who not only succeeded in the course but also can explain concepts in a way students can understand,  so that she can see improvements in scores in a short time. <br /> 
+    3. Finding tutors who can design exercise problems based on each students' needs, instead of giving the same material for students of all levels.<br />
+    4. Learn efficiently at times she focuses well in(avoid early mornings)
 
 Problems:
     1. Having trouble to verify whether the tutor is experienced or not<br /> 
     2. Some tutors succeed in the subject, but cannot teach and explain the concepts to someone new.<br /> 
     3. The way tutors explain specific problems differ from how the professor teaches in class, bringing conflicts and confusion.<br /> 
+    4. Don't know where to start or how to find who fits her well in a short time, especially during final week. <br /> 
 
 ## Product Vision Statement
 
